@@ -9,6 +9,4 @@ step 2: Download the .vscode folder and put it in your project folder.
 
 step 3: Create a C file, and press ctrl + shift +B to build a .exe file.
 
-step 4: input .\your file name in the terminal to run the file.
-
-*notice: if you press F5 to run the file and it doesn't work, that's because
+step 4: input .\your file name in the terminal to run the file
