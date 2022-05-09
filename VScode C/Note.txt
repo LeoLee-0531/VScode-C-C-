@@ -1,13 +1,14 @@
 1. method 1
-reference site : https://code.visualstudio.com/docs/languages/cpp
- 
+step 1: Refer to this site: https://code.visualstudio.com/docs/languages/cpp
+
 
 2. method 2
-reference  site : https://www.javatpoint.com/how-to-run-a-c-program-in-visual-studio-code
+step 1: Refer to this site: https://www.javatpoint.com/how-to-run-a-c-program-in-visual-studio-code
 
-after downloading C extension from vscode, MinGW and add the environment varities, 
-you can put the folder named .vscode that you can download it from the last page in your project folder.
-And then you can create a C file, don't forget build a .exe file before you run it.
+step 2: Download the .vscode folder and put it in your project folder.
 
-ctrl + shift + B - build a .exe file
-F5 - run the .file
+step 3: Create a C file, and press ctrl + shift +B to build a .exe file.
+
+step 4: input .\your file name in the terminal to run the file.
+
+*notice: if you press F5 to run the file and it doesn't work, that's because
