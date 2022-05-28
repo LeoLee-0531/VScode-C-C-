@@ -1,5 +1,11 @@
 1. method 1
-step 1: Refer to this site: https://code.visualstudio.com/docs/languages/cpp
+Refer to this site: https://code.visualstudio.com/docs/languages/cpp
+
+step 1: install C/C++ extension from VScode
+
+step 2: install MinGW
+
+step 3: create C/C++ files
 
 
 2. method 2
@@ -7,6 +13,6 @@ step 1: Refer to this site: https://www.javatpoint.com/how-to-run-a-c-program-in
 
 step 2: Download the .vscode folder and put it in your project folder.
 
-step 3: Create a C file, and press ctrl + shift +B to build a .exe file.
+step 3: Create a C/C++ file, and press ctrl+shift+B to build a .exe file.
 
 step 4: input .\your file name in the terminal to run the file
